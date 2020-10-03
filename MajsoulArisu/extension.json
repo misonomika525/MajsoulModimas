@@ -1,6 +1,6 @@
 {
   "id": "MajsoulArisu",
-  "version": "7.4.0",
+  "version": "7.4.1",
   "name": "橘爱丽丝 Mod",
   "author": ["Fubuki", "Kyoko"],
   "description": "橘爱丽丝 Mod",
@@ -152,6 +152,7 @@
     "extendRes/charactor/yiji_haitanpaidui/waitingroom.png",
     "extendRes/charactor/yiji_xinnianchuzhi/bighead.png",
     "extendRes/charactor/yiji_xinnianchuzhi/full.png",
+    "extendRes/charactor/yiji_xinnianchuzhi/half.png",
     "extendRes/charactor/yiji_xinnianchuzhi/smallhead.png",
     "extendRes/charactor/yiji_xinnianchuzhi/waitingroom.png"
   ],

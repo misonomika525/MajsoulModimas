@@ -1,6 +1,6 @@
 {
   "id": "MajsoulHina",
-  "version": "7.4.0",
+  "version": "7.4.1",
   "name": "荒木比奈 Mod",
   "author": ["Fubuki", "Kyoko"],
   "description": "荒木比奈 Mod",
@@ -142,10 +142,12 @@
     "extendRes/charactor/erjietang_0/reverse/half.png",
     "extendRes/charactor/erjietang_CJ/bighead.png",
     "extendRes/charactor/erjietang_CJ/full.png",
+    "extendRes/charactor/erjietang_CJ/half.png",
     "extendRes/charactor/erjietang_CJ/smallhead.png",
     "extendRes/charactor/erjietang_CJ/waitingroom.png",
     "extendRes/charactor/erjietang_WSJ/bighead.png",
     "extendRes/charactor/erjietang_WSJ/full.png",
+    "extendRes/charactor/erjietang_WSJ/half.png",
     "extendRes/charactor/erjietang_WSJ/smallhead.png",
     "extendRes/charactor/erjietang_WSJ/waitingroom.png"
   ],

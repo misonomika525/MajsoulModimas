@@ -13,7 +13,7 @@ requestAnimationFrame(function autoRun() {
             "words": '今日からお世話になります。橘ありすです。橘と呼んでください。アイドルになったら、プロとしてのお仕事はちゃんとするつもりですので。これからよろしくお願いします。',
           },
           "登录语音普通": {
-            "words": 'おはようございます。朝から頑張るのは、大事だと思います'
+            "words": 'Good morning. It is important to give your best effort starting in the morning.'
           },
           "登录语音满羁绊": {
             "words": 'あの、ずっと黙っていられると、ちょっと…。どうしたんですか？'
@@ -106,13 +106,13 @@ requestAnimationFrame(function autoRun() {
           chr.name_chs = '橘爱丽丝';
           chr.name_en = 'Arisu Tachibana';
           chr.name_jp = '橘ありす';
-          helper('desc_cv', '佐藤亚美菜');
-          helper('desc', '威风凛凛的睫毛，及腰的棕色长发，头上一个大大的蓝色蝴蝶结，又叫做爱丽丝，让人联想到童话故事中的人物。因此曾经为自己的名字不像日本人而深深感到苦恼。\n作为12岁的小女孩，伦理逻辑相当严密，比同龄人更加成熟。很擅长学习，是一名小小优等生。\n因为对人对己都很严格，有时候会显得刻薄冷淡。与此印象相反，认为音乐里充满力量，对于音乐富有热情。\n兴趣是玩游戏和读推理小说，经常全神贯注地投入到爱好中。另外，平常还喜欢带着平板电脑。');
+          helper('desc_cv', 'Amina Satou');
+          helper('desc', 'Arisu is a studious, responsible young girl. She loves to play games and frequently becomes engrossed in reading mystery novels. Arisu hates her name and prefers to be referred to by her surname because she deems it childish. She says that it sounds like a name out of a fairy-tale, which could be in reference to "Alice in Wonderland", a story that her parents often read aloud to her. ');
           helper('desc_age', '12');
-          helper('desc_birth', '7月31日');
+          helper('desc_birth', 'July 31st');
           helper('desc_bloodtype', 'A');
-          helper('desc_hobby', '游戏、读推理小说');
-          helper('desc_stature', '141厘米');
+          helper('desc_hobby', 'Games, reading (mystery)');
+          helper('desc_stature', '141cm');
           break;
       }
     });

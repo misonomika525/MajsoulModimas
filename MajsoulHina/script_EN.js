@@ -69,19 +69,19 @@ requestAnimationFrame(function autoRun() {
             "words": 'アタシの勝利は確定済み。このメガネには、未来が見えてるっス！'
           },
           "特殊语音 - 连续打出多张相同牌": {
-            "words": '（待补）'
+            "words": '（Hina Araki ）'
           },
           "特殊语音 - 打出宝牌": {
-            "words": '（待补）'
+            "words": '（Hina Araki ）'
           },
           "特殊语音 - 余牌少于10": {
-            "words": '（待补）'
+            "words": '（Hina Araki ）'
           },
           "特殊语音 - 役满听牌": {
-            "words": '（待补）'
+            "words": '（Hina Araki ）'
           },
           "特殊语音 - 倍满/三倍满听牌": {
-            "words": '（待补）'
+            "words": '（Hina Araki ）'
           }
         };
         soundGroup.forEach(soundObject => {
@@ -105,13 +105,13 @@ requestAnimationFrame(function autoRun() {
           chr.name_chs = '荒木比奈';
           chr.name_en = 'Hina Araki';
           chr.name_jp = '荒木比奈';
-          helper('desc_cv', '田边留依');
-          helper('desc', '20岁的大龄宅女，但是却有着与年龄不符的身高和容颜。眼神无时无刻不看起来显得懒散，头发也总是有些蓬乱。\n可谓一个十足的宅，喜欢画漫画，是个大触。最初她还怀疑自己能不能成为一个可爱的偶像。\n具有创作者的惯常毛病——拖稿。昼夜颠倒很正常，赶得昏天黑地之时喝过墨水味的咖啡，还曾为了不睡觉赶稿而与恶魔签订契约喝下了谜之药水。');
+          helper('desc_cv', 'Rui Tanabe');
+          helper('desc', 'A somewhat unkempt and indoorsy otaku type who likes to draw manga, Hina is initially very doubtful that she can become a cute idol. She seems to be the kind of person who hates deadlines, often frantically adjusting her manga schedule at the last second.');
           helper('desc_age', '20');
-          helper('desc_birth', '4月9日');
+          helper('desc_birth', 'April 9th');
           helper('desc_bloodtype', 'A');
-          helper('desc_hobby', '画漫画');
-          helper('desc_stature', '157厘米');
+          helper('desc_hobby', 'Drawing Manga');
+          helper('desc_stature', '157cm');
           break;
       }
     });

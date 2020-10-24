@@ -1,9 +1,9 @@
 {
   "id": "MajsoulHina",
   "version": "7.4.4",
-  "name": "荒木比奈 Mod",
+  "name": "Hina Araki Mod",
   "author": ["Tachibana", "Kyoko"],
-  "description": "荒木比奈 Mod",
+  "description": "Hina Araki Mod",
   "preview": "preview.jpg",
   "dependencies": {
     "font_override": "^1.0.0"

@@ -7,7 +7,7 @@
 236:{character:???}啊！
 237:在荒木比奈的家门口撞到了慌慌张张的爱丽丝，她神色复杂地看了我一眼。
 238:爱丽丝
-239:{character:橘爱丽丝}制作人先生快逃！
+239:{character:橘爱丽丝}{var:player_nickname}制作人先生快逃！
 240:说完这句话，爱丽丝转身就跑开了。
 241:player
 242:{character:player}爱丽丝——

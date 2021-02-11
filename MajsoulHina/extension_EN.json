@@ -1,12 +1,11 @@
 {
   "id": "MajsoulHinaEN",
-  "version": "7.4.4",
+  "version": "7.5.8",
   "name": "Hina Araki Mod",
   "author": ["Tachibana", "Kyoko"],
   "description": "Hina Araki Mod",
   "preview": "preview.jpg",
   "dependencies": {
-    "font_override": "^1.0.0"
   },
   "resourcepack": [
     "audio/sound/erjietang/act_babei.mp3",

@@ -1,12 +1,11 @@
 {
   "id": "MajsoulArisu",
-  "version": "7.5.3",
+  "version": "7.5.8",
   "name": "橘爱丽丝 Mod",
   "author": ["Tachibana", "Kyoko"],
   "description": "橘爱丽丝 Mod",
   "preview": "preview.jpg",
   "dependencies": {
-    "font_override": "^1.0.0"
   },
   "resourcepack": [
     "audio/sound/yiji/act_babei.mp3",

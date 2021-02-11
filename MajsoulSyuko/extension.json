@@ -1,12 +1,11 @@
 {
   "id": "MajsoulSyuko",
-  "version": "7.5.2",
+  "version": "7.5.8",
   "name": "盐见周子 Mod",
   "author": ["Tachibana", "Kyoko"],
   "description": "盐见周子 Mod",
   "preview": "preview.jpg",
   "dependencies": {
-    "font_override": "^1.0.0"
   },
   "resourcepack": [
     "audio/sound/jianai/game_top.mp3",

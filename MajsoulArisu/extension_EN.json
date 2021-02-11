@@ -1,12 +1,11 @@
 {
   "id": "MajsoulArisuEN",
-  "version": "7.4.4",
+  "version": "7.5.8",
   "name": "Arisu Tachibana Mod",
   "author": ["Tachibana", "Kyoko"],
   "description": "Arisu Tachibana Mod",
   "preview": "preview.jpg",
   "dependencies": {
-    "font_override": "^1.0.0"
   },
   "resourcepack": [
     "audio/sound/yiji/act_babei.mp3",

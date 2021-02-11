@@ -1,12 +1,11 @@
 {
   "id": "MajsoulHina",
-  "version": "7.5.3",
+  "version": "7.5.8",
   "name": "荒木比奈 Mod",
   "author": ["Tachibana", "Kyoko"],
   "description": "荒木比奈 Mod",
   "preview": "preview.jpg",
   "dependencies": {
-    "font_override": "^1.0.0"
   },
   "resourcepack": [
     "audio/sound/erjietang/act_babei.mp3",

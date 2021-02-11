@@ -1,12 +1,11 @@
 {
   "id": "MajsoulYukimi",
-  "version": "7.5.2",
+  "version": "7.5.8",
   "name": "佐城雪美 Mod",
   "author": ["Tachibana", "Kyoko"],
   "description": "佐城雪美 Mod",
   "preview": "preview.jpg",
   "dependencies": {
-    "font_override": "^1.0.0"
   },
   "resourcepack": [
     "audio/sound/wangcilang/act_babei.mp3",

@@ -1,6 +1,6 @@
 # MajsoulModimas
 
-基于[雀魂Plus](https://github.com/MajsoulPlus/majsoul-plus-client/releases)的一个Mod。（一姬→橘爱丽丝、二阶堂美树→荒木比奈、汪次郎→佐城雪美、藤田佳奈→盐见周子、轻库娘→神谷奈绪）
+基于[雀魂Plus](https://github.com/MajsoulPlus/majsoul-plus-client/releases)的一个Mod。（一姬→橘爱丽丝、二阶堂美树→荒木比奈、汪次郎→佐城雪美、藤田佳奈→盐见周子、轻库娘→神谷奈绪，其他偶像制作中……）
 
 ## 使用
 

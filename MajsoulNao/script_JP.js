@@ -105,13 +105,13 @@ requestAnimationFrame(function autoRun() {
           chr.name_chs = '神谷奈绪';
           chr.name_en = 'Nao Kamiya';
           chr.name_jp = '神谷奈緒';
-          helper('desc_cv', '松井惠理子');
-          helper('desc', '17岁的高中二年级生，一头乱蓬蓬的卷发，还有着特征性的粗眉毛和齐刘海。\n拥有很常见的傲娇性格。其实想要变得更少女一些，但是却往往不能很好地表达自己，以至于会把情况变得尴尬。');
+          helper('desc_cv', '松井恵理子');
+          helper('desc', '千葉県民だが、東京寄りの千葉で高校も東京。\n趣味はアニメ鑑賞で、荒木比奈とは漫画を貸し借りする仲。こちら側の人間ではないかという噂がチラホラ見られる。\n髪のボリュームがかなりあり、モフモフしたいという声もよく聞かれる。しかしそれゆえに湿度の高い日には髪が大変なことになってしまうようである。');
           helper('desc_age', '17');
           helper('desc_birth', '9月16日');
           helper('desc_bloodtype', 'AB');
-          helper('desc_hobby', '看动画');
-          helper('desc_stature', '154厘米');
+          helper('desc_hobby', 'アニメ鑑賞');
+          helper('desc_stature', '154cm');
           break;
       }
     });

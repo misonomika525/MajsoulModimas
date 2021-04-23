@@ -1,0 +1,15 @@
+E:\Majsoul Plus Canary\MajsoulModimas\MajsoulArisu\assets\audio\sound\yiji\extra\1.txt
+E:\Majsoul Plus Canary\MajsoulModimas\MajsoulArisu\assets\audio\sound\yiji\extra\FileList.bat
+E:\Majsoul Plus Canary\MajsoulModimas\MajsoulArisu\assets\audio\sound\yiji\extra\scfan_daiyaojiu.mp3
+E:\Majsoul Plus Canary\MajsoulModimas\MajsoulArisu\assets\audio\sound\yiji\extra\scfan_gen.mp3
+E:\Majsoul Plus Canary\MajsoulModimas\MajsoulArisu\assets\audio\sound\yiji\extra\scfan_jiangdui.mp3
+E:\Majsoul Plus Canary\MajsoulModimas\MajsoulArisu\assets\audio\sound\yiji\extra\scfan_jingoudiao.mp3
+E:\Majsoul Plus Canary\MajsoulModimas\MajsoulArisu\assets\audio\sound\yiji\extra\scfan_lingshangfangchong.mp3
+E:\Majsoul Plus Canary\MajsoulModimas\MajsoulArisu\assets\audio\sound\yiji\extra\scfan_longqidui.mp3
+E:\Majsoul Plus Canary\MajsoulModimas\MajsoulArisu\assets\audio\sound\yiji\extra\scfan_qingdui.mp3
+E:\Majsoul Plus Canary\MajsoulModimas\MajsoulArisu\assets\audio\sound\yiji\extra\scfan_qingjindoudiao.mp3
+E:\Majsoul Plus Canary\MajsoulModimas\MajsoulArisu\assets\audio\sound\yiji\extra\scfan_qinglongqidui.mp3
+E:\Majsoul Plus Canary\MajsoulModimas\MajsoulArisu\assets\audio\sound\yiji\extra\scfan_qingqidui.mp3
+E:\Majsoul Plus Canary\MajsoulModimas\MajsoulArisu\assets\audio\sound\yiji\extra\scfan_qingshibaluohan.mp3
+E:\Majsoul Plus Canary\MajsoulModimas\MajsoulArisu\assets\audio\sound\yiji\extra\scfan_qingyaojiu.mp3
+E:\Majsoul Plus Canary\MajsoulModimas\MajsoulArisu\assets\audio\sound\yiji\extra\scfan_shibaluohan.mp3

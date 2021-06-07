@@ -6,6 +6,7 @@
   "description": "椎名法子 Mod\n（与 荒木比奈Mod 冲突）",
   "preview": "preview.png",
   "dependencies": {
+	  "font_override": "^1.0.2"
   },
   "resourcepack": [
     "audio/sound/erjietang/act_babei.mp3",

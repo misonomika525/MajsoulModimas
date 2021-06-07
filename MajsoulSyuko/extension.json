@@ -6,6 +6,7 @@
   "description": "盐见周子 Mod",
   "preview": "preview.jpg",
   "dependencies": {
+	  "font_override": "^1.0.2"
   },
   "resourcepack": [
     "audio/sound/jianai/game_top.mp3",

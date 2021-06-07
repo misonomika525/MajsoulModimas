@@ -6,6 +6,7 @@
   "description": "橘爱丽丝 Mod",
   "preview": "preview.jpg",
   "dependencies": {
+	  "font_override": "^1.0.2"
   },
   "resourcepack": [
     "audio/sound/yiji/act_babei.mp3",

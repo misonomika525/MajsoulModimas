@@ -6,6 +6,7 @@
   "description": "神谷奈绪 Mod",
   "preview": "preview.jpg",
   "dependencies": {
+	  "font_override": "^1.0.2"
   },
   "resourcepack": [
     "audio/sound/qingkuniang/act_babei.mp3",

@@ -110,7 +110,7 @@ requestAnimationFrame(function autoRun() {
           helper('desc_age', '13');
           helper('desc_birth', '10月10日');
           helper('desc_bloodtype', 'O');
-          helper('desc_hobby', '新口味甜甜圈試吃');
+          helper('desc_hobby', '新口味甜甜圈试吃');
           helper('desc_stature', '147厘米');
           break;
       }

@@ -5,8 +5,10 @@
 ## 使用
 
 1. 访问 [雀魂Plus releases 页面](https://github.com/MajsoulPlus/majsoul-plus-client/releases) 下载最新版本
-2. 访问 [releases 页面](https://github.com/TanakaKotoha/MajsoulModimas/releases) 下载最新版本mod
-3. 运行雀魂 Plus 并导入 mspm 文件
+2. 访问以下页面下载最新版本mod（「替换位图字体 Mod」已提供）：
+	* 国内：https://share.weiyun.com/fqcXw0iH
+	* Outside of China：https://1drv.ms/u/s!Aie912CQw_odj1LXRvYxvBSTLGR_?e=0dfYh2
+3. 运行雀魂 Plus 并导入 mspe 文件
 
 在客户端中玩的开心！
 
@@ -14,7 +16,7 @@
 
 1. 本Mod目前仅适配简体中文，其他语种暂不适配。
 2. 荒木比奈Mod 无法与 椎名法子Mod 并用，因为替换的是同一个角色。
-3. 如要使用本Mod，必须安装1.0.2版本以上的「替换位图字体 Mod」（此处已提供）。
+3. 如要使用本Mod，必须安装1.0.2版本以上的「替换位图字体 Mod」。
 
 ## 素材来源
 

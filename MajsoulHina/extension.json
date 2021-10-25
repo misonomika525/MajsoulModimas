@@ -1,9 +1,9 @@
 {
   "id": "MajsoulHina",
-  "version": "7.6.0",
+  "version": "7.6.1",
   "name": "荒木比奈 Mod",
   "author": "Tachibana",
-  "description": "荒木比奈 Mod",
+  "description": "荒木比奈 Mod\n（与 椎名法子Mod 冲突）",
   "preview": "preview.jpg",
   "dependencies": {
 	  "font_override": "^1.0.2"

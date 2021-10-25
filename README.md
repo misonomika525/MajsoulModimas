@@ -5,18 +5,15 @@
 ## 使用
 
 1. 访问 [雀魂Plus releases 页面](https://github.com/MajsoulPlus/majsoul-plus-client/releases) 下载最新版本
-2. 访问以下页面下载最新版本mod（「替换位图字体 Mod」已提供）：
-	* 国内：https://share.weiyun.com/fqcXw0iH
-	* Outside of China：https://1drv.ms/u/s!Aie912CQw_odj1LXRvYxvBSTLGR_?e=0dfYh2
+2. 访问 [releases 页面](https://github.com/TanakaKotoha/MajsoulModimas/releases) 页面下载最新版本mod。
 3. 运行雀魂 Plus 并导入 mspe 文件
 
 在客户端中玩的开心！
 
 ### 注意事项
 
-1. 本Mod目前仅适配简体中文，其他语种暂不适配。
-2. 荒木比奈Mod 无法与 椎名法子Mod 并用，因为替换的是同一个角色。
-3. 如要使用本Mod，必须安装1.0.2版本以上的「替换位图字体 Mod」。
+1. 荒木比奈Mod 无法与 椎名法子Mod 并用，因为替换的是同一个角色。
+2. 如要使用本Mod，必须安装1.0.2版本以上的 [「替换位图字体 Mod」](https://github.com/TanakaKotoha/MajsoulModimas/releases/tag/font) 。
 
 ## 素材来源
 
@@ -35,7 +32,7 @@
 
 ## 待解决问题
 
-1. 婚后语音文本由于无法确认语音具体内容暂不提供（荒木比奈、佐城雪美、盐见周子、神谷奈绪、椎名法子）。
+1. 部分语音文本由于无法确认语音具体内容暂不提供（荒木比奈、佐城雪美、盐见周子、神谷奈绪、椎名法子）。
 2. 当前游戏内的随机镜像机制会导致某些场景显示效果不佳。
 
 ## 更新历史
@@ -43,6 +40,7 @@
  * 7.6.1：
  	* 橘爱丽丝：适配新皮肤。
  	* 佐城雪美：更换对局源语音。
+ 	* 其他：细节调整。
  * 7.6.0：
  	* 全体：随着「替换位图字体 Mod」修复完成，恢复必须安装「替换位图字体 Mod」的限制。
  	* 修正几处文本。
